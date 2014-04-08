@@ -1,4 +1,6 @@
 py_crawler
 ==========
 
-get all anchor tags from a url
+Get all anchor tags from a url.
+
+Written for Python 3.3.
